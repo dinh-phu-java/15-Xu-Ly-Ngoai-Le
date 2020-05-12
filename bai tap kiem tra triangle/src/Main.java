@@ -1,3 +1,6 @@
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.Scanner;
 
 public class Main {
@@ -18,7 +21,6 @@ public class Main {
             System.out.println("Here is a triangle");
         }
 
-        
 
     }
 
